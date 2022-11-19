@@ -6,5 +6,6 @@ public class gitDemo {
         System.out.println("Hello,git4!");
         System.out.println("Hello,git55!");
         System.out.println("Hello,git66!");
+        System.out.println("push push");
     }
 }
